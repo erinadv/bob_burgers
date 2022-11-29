@@ -1,7 +1,10 @@
-# bob_burgers
+# Bob_burgers
 The Bob's Burgers App is an application based on the television show Bob's Burgers, that contains data for hundreds of characters and images from the show. Built with React Native and Expo.
 
-<h1> demo aplikasi v.1 </h1>
+# Bob's Burgers API
+https://www.bobsburgersapi.com/documentation
+
+<h1> Demo aplikasi v.1 </h1>
 
 
 
