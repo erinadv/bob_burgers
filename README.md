@@ -4,7 +4,10 @@ The Bob's Burgers App is an application based on the television show <a href="ht
 # Bob's Burgers API
 https://www.bobsburgersapi.com/documentation
 
+<code>npm start</code>
+
 <h1> Demo aplikasi v.1 </h1>
+<code>npm start</code>
 
 
 
